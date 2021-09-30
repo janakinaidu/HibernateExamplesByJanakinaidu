@@ -1,6 +1,4 @@
-# HibernateExamplesByJanakinaidu
-HibernatePracticeExamples
+#Hibernate<br>
 
-#Hibernate
-    Hibernate is one of the most popular ORM Framework.
-    Hibernate is one of the popular implementations of JPA.
+1.Hibernate is one of the most popular ORM Framework.<br>
+2.Hibernate is one of the popular implementations of JPA.
